@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #eeeeee;
 }
 
 code {
@@ -24,6 +25,7 @@ h1 {
 
 p {
   padding: 64px;
+  letter-spacing: 1px;
 }
 
 button {
